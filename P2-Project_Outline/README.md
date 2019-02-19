@@ -7,11 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I plan to create an app called "Cuisine Roulette". This app will allow users to login and search an area via location to find a group of restaurants and then spin the roulette wheel to have a randomizer select a place for them to dine. Cuisine Roulette will take the dilemma of where do you want to eat tonight out of the discussion. By selecting a general area where you would like to dine and spinning the wheel we can take the guess work out of date night. I came up with this idea through many discussion with friends about what do we wnat to eat tonight, and most of the time the conversation ended in many I don't cares. This app will cut down on time spent on making a decision and get you and your friends where you want to go sooner.
+
 ### Features
-Include Features here
+User sign up
+API
+Search
+Location services
 ### Technologies
-Include Technologies here
+Javascript
+Bootstrap
+React
+CSS
+Python
+MySQL
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Including an API for a location based search
+React techniques
+adding animation to html
